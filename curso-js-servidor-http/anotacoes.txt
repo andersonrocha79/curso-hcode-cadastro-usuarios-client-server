@@ -1,0 +1,43 @@
+/*
+
+instala o gerador de projeto padrão express
+npm install express-generator -g
+
+verifica informações do express-generator
+express -h
+
+criando a aplicação padrão express
+express --ejs client-server
+
+instalando as referências para Promisse
+npm install promise
+
+acessando a pasta criada pelo 'express' no comando anterior
+e executar o npm install para instalar os pacotes
+exigidos por esta aplicação 'express'
+cd client\server
+npm install
+
+para executar o projeto criado
+npm start
+http://localhost:3000/
+
+instalando o restfy 'client' para acessar um servidor 'rest'
+npm install restify-clients --save
+
+*** SERVIDOR RESTFULL
+para executar o servidor rest, acessar a pasta e digitar 'node index'
+> curso-js-servidor-restapi> node index
+http://localhost:4000/users
+
+*** SERVIDOR HTTP (EXPRESS)
+para executar o projeto front end, acessar a pasta e digitar npm start
+> curso-js-servidor-http> npm start
+http://localhost:3000/users
+
+
+> servidor rest rodando em http://localhost:4000/
+
+> servidor http rodando em http://localhost:3000/
+
+*/
